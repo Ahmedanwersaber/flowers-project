@@ -87,7 +87,7 @@ section{
     display: flex;
     align-items: center;
     min-height: 100vh;
-    background: url(./img/home-bg.jpg);
+    background: url(./home-bg.jpg);
     background-size: cover;
     background-position: center;
 }
